@@ -41,6 +41,7 @@ Hinweise:
 die Bibliotheksfunktion int strcmp(const char *s1, const char *s2).
 ▪ Schreiben Sie alle Funktionen in das main-Programm. Sie sollen für dieses Beispiel
 kein make und keine separate Übersetzung verwenden.
+(Alles in Java ! )
 */
 
 import java.util.ArrayList;
