@@ -51,7 +51,7 @@ Hinweise:
 Labels die Character j und n auswertet.
 ▪ Verwenden Sie fflush(stdin) aus der Bibliothek <stdio.h>, um Probleme mit dem
 Tastaturpuffer bei der Eingabe zu umgehen.
-
+(Alles in Java ! )
 
 */
 
